@@ -1,7 +1,7 @@
 import turtle as t
 import time
 
-TURTLE_SPEAD=20
+TURTLE_SPEAD=10
 UP = 90
 DOWN = 270
 LEFT = 180
