@@ -4,7 +4,7 @@ from scoreboard import ScoreBoard
 from snake import Snake
 from foood import Food
 import pygame
-REFRESH_TIME = 0.1
+REFRESH_TIME = 0.05
 
 
 pygame.mixer.init()
