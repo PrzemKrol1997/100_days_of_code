@@ -1,4 +1,5 @@
 # uncomment hashed lines in order to use in pythonanywhere
+# body in send_alert is edited so Twilio doesn't register it as spam
 
 import os
 import requests
