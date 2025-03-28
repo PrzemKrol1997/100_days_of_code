@@ -14,3 +14,4 @@ To catch mistakes when entering data, I have been using the try and except metho
 
 The idea for Training_app is what inspired me to start the 100 Days of Code course. I originally recorded my training sessions manually in Notepad, but I thought there must be a better way. I wanted to write a program to automate data entry. I created this program when I learned about saving files, and I plan to update it from time to time to keep it up to date with my knowledge.
 
+Unfortunately, I had problems with API on days 39-41, so I decided to postpone them so as not to linger too long.
